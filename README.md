@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.gifer.com/XiPm.gif" width="28px" alt="d"> Buenas <img src="https://i.gifer.com/XiPm.gif" width="28px" alt="👋"></h1>
+<h1 align="center"><img src="calaca.gif" width="28px" alt="d">  Buenas  <img src="calaca.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Cool to see you</b><br><br>
