@@ -1,9 +1,8 @@
 <h1 align="center"><img src="calaca.gif" width="28px" alt="d">  Buenas  <img src="calaca.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Cool to see you</b><br><br>
+    <b>My pleasure</b><br>
     <i>
-        Me wanna be a Data Scientist?<br>
         Studying a bit of everything. Enthusiast of insects and mathematics. I enjoy apples and good stories.<br>
     </i><br>
 </p>
