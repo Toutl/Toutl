@@ -43,11 +43,11 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toutl&hide_border=true&theme=monokai" />
         </a>
     </p>
+    
+    <p align="center">
+        <a href="https://github.com/Toutl">
+            <img src="https://komarev.com/ghpvc/?username=Toutl&color=8A3882&style=for-the-badge&label=Views" />
+        </a>
+    </p>
 </details>
 
-
-<p align="center">
-    <a href="https://github.com/Toutl">
-        <img src="https://komarev.com/ghpvc/?username=Toutl&color=8A3882&style=for-the-badge&label=Views" />
-    </a>
-</p>
