@@ -44,10 +44,10 @@
         </a>
     </p>
     
-    <p align="center">
-        <a href="https://github.com/Toutl">
-            <img src="https://komarev.com/ghpvc/?username=Toutl&color=8A3882&style=for-the-badge&label=Views" />
-        </a>
-    </p>
+<p align="center">
+    <a href="https://github.com/Toutl">
+        <img src="https://komarev.com/ghpvc/?username=Toutl&color=8A3882&style=for-the-badge&label=Views" />
+    </a>
+</p>
 </details>
 
