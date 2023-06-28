@@ -9,11 +9,9 @@
 
 ### Languages & Technologies
 [![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=FC618D)](https://github.com/Toutl)
-[![Bash](https://img.shields.io/badge/bash-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=7BD88F)](https://github.com/Toutl)
 [![Python](https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=7BD88F)](https://github.com/Toutl)
 [![HTML5](https://img.shields.io/badge/html-black.svg?style=for-the-badge&logo=html5&logoColor=FD9353)](https://github.com/Toutl)
 [![CSS3](https://img.shields.io/badge/css-black.svg?style=for-the-badge&logo=css3&logoColor=FD9353)](https://github.com/Toutl)
-[![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=FD9353)](https://github.com/Toutl)
 
 ### Software
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows%2011)](https://github.com/Toutl)
