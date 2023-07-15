@@ -10,13 +10,14 @@
 ### Languages & Technologies
 [![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=FC618D)](https://github.com/Toutl)
 [![Python](https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=7BD88F)](https://github.com/Toutl)
+[![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=FCE566)](https://github.com/Toutl)
 [![HTML5](https://img.shields.io/badge/html-black.svg?style=for-the-badge&logo=html5&logoColor=FD9353)](https://github.com/Toutl)
 [![CSS3](https://img.shields.io/badge/css-black.svg?style=for-the-badge&logo=css3&logoColor=FD9353)](https://github.com/Toutl)
 
 ### Software
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows%2011)](https://github.com/Toutl)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
-![Opera](https://img.shields.io/badge/Opera-black?style=for-the-badge&logo=Opera&logoColor=FF1B2D)
+
 
 
 ### Education
