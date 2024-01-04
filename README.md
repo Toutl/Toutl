@@ -22,6 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godotengine&logoColor=478CBF)
 
 <details>
     <p align="center">
