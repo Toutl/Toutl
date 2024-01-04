@@ -15,6 +15,7 @@
 [![PHP](https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=5AD4E6)](https://github.com/Toutl)
 [![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=948AE3)](https://github.com/Toutl)
 [![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=FCE566)](https://github.com/Toutl)
+[![C#](https://img.shields.io/badge/C%23-black.svg?style=for-the-badge&logo=C%23&logoColor=948AE3)](https://github.com/Toutl)
 
 ### Software
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows%2011)](https://github.com/Toutl)
