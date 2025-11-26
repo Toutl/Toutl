@@ -28,7 +28,7 @@
 <details>
     <p align="center">
         <a href="https://github.com/Toutl">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toutl&hide_border=true&theme=slateorange" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toutl&hide_border=true&theme=slateorange&hide=jupyter%20notebook" />
         </a>
     </p>
     
